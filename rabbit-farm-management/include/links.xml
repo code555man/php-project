@@ -1,0 +1,34 @@
+<pages>
+    <link>
+        <title>รายงานผล</title>
+        <url>home.php</url>
+    </link>
+    <link>
+        <title>จัดการข้อมูลยาวัคซีน</title>
+        <url>home.php?page=vaccine</url>
+    </link>
+    <link>
+        <title>จัดการข้อมูลกระต่าย</title>
+        <url>home.php?page=rabbit_data</url>
+    </link>
+    <link>
+        <title>จัดการข้อมูลการผสมพันธุ์</title>
+        <url>home.php?page=rabbit_hb</url>
+    </link>
+    <link>
+        <title>ตรวจสอบประวัติการผสมพันธุ์</title>
+        <url>home.php?page=checkHb</url>
+    </link>
+    <link>
+        <title>จัดการข้อมูลการรับการรักษา</title>
+        <url>home.php?page=rabbit_heal</url>
+    </link>
+    <link>
+        <title>จัดการข้อมูลสมาชิก</title>
+        <url>home.php?page=member</url>
+    </link>
+    <link>
+        <title>ตั้งค่าเว็บไซต์ จัดการเว็บไซต์</title>
+        <url>home.php?page=setting</url>
+    </link>
+</pages>
